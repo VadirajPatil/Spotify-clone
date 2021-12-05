@@ -21,7 +21,7 @@ let songs = [
     {songName: "Bombe Helutaithe", filePath: "songs/4.mp3", coverPath: "covers/Bombe Helutaithe.jpg"},
     {songName: "Tamma Tamma Again", filePath: "songs/5.mp3", coverPath: "covers/Tamma Tamma Again.jpg"},
     {songName: "Shape Of You", filePath: "songs/6.mp3", coverPath: "covers/Shape Of You.jpg"},
-    {songName: "Believer", filePath: "songs/7.mp3", coverPath: "covers/Believer.jpg"}
+    {songName: "Believer", filePath: "songs/7.mp3", coverPath: "covers/believer.jpg"}
 ]
 // audioElement.play();
 
